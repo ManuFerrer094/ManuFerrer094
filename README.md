@@ -1,5 +1,5 @@
 # ¡Hola! 👋 Soy [Manu Ferrer](https://github.com/ManuFerrer094)
-[Banner](https://media.licdn.com/dms/image/D4D16AQGjFZTeTLWN_Q/profile-displaybackgroundimage-shrink_350_1400/0/1698392706809?e=1712188800&v=beta&t=rdI7ytBszPaXNLrsmv5SJajjyDiYLrcVBuEsZZrAGqk)
+![Banner](https://media.licdn.com/dms/image/D4D16AQGjFZTeTLWN_Q/profile-displaybackgroundimage-shrink_350_1400/0/1698392706809?e=1712188800&v=beta&t=rdI7ytBszPaXNLrsmv5SJajjyDiYLrcVBuEsZZrAGqk)
 Soy un entusiasta del desarrollo de software, apasionado por crear soluciones innovadoras y aprender nuevas tecnologías. ¡Bienvenido a mi perfil de GitHub!
 
 ## Sobre mí
