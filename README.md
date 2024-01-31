@@ -29,5 +29,5 @@ Me encanta sumarme a equipos dinámicos y contribuir en entornos frontend-backen
 - [![Fundamentos de las matemáticas para programadores](https://img.shields.io/badge/Fundamentos_Matem%C3%A1ticas-Julio_2018-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
 
 ## Contacto
-¡Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/manuel-ferrer-garcia/)!
+¡Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/manuferrer/)!
 
