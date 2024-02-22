@@ -1,4 +1,4 @@
-# ¡Hola! Soy Manuel Ferrer 👋
+# ¡Hola! soy Manuel Ferrer 👋
 
 ![Manuel Ferrer](https://media.licdn.com/dms/image/D4D16AQGjFZTeTLWN_Q/profile-displaybackgroundimage-shrink_350_1400/0/1698392706809?e=1712188800&v=beta&t=rdI7ytBszPaXNLrsmv5SJajjyDiYLrcVBuEsZZrAGqk)
 
@@ -11,7 +11,7 @@ Con un sólido dominio de lenguajes como C#, TypeScript y JavaScript, así como 
 
 Me encanta sumarme a equipos dinámicos y contribuir en entornos frontend-backend.
 
-## Habilidades Clave
+## Habilidades clave
 - Lenguajes: ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)
 - Frameworks: ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 - Bases de Datos: ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
