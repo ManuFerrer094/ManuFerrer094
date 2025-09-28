@@ -22,6 +22,24 @@ Con un sólido dominio de lenguajes como **C#**, **TypeScript** y **JavaScript**
 
 Me encanta sumarme a equipos dinámicos y contribuir en entornos colaborativos frontend-backend.
 
+## 📊 KPIs & Métricas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManuFerrer094&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManuFerrer094&theme=radical&hide_border=true&background=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuFerrer094&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManuFerrer094&theme=react-dark&hide_border=true&bg_color=0D1117)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ManuFerrer094&color=blueviolet&style=for-the-badge)](https://github.com/ManuFerrer094)
+
+</div>
+
+---
+
 ## 🛠️ Stack Tecnológico
 
 ### 💻 Lenguajes de Programación
