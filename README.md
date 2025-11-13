@@ -25,14 +25,19 @@ Me encanta sumarme a equipos dinámicos y contribuir en entornos colaborativos f
 
 <div align="center">
 
+<!-- Estadísticas generales -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManuFerrer094&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
+<!-- Racha de contribuciones -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManuFerrer094&theme=radical&hide_border=true&background=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuFerrer094&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+<!-- Lenguajes más usados (sin Java ni HTML) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuFerrer094&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=java,html)
 
+<!-- Actividad general -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManuFerrer094&theme=react-dark&hide_border=true&bg_color=0D1117)
 
+<!-- Vistas de perfil -->
 [![Profile Views](https://komarev.com/ghpvc/?username=ManuFerrer094&color=blueviolet&style=for-the-badge)](https://github.com/ManuFerrer094)
 
 </div>
