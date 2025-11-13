@@ -105,7 +105,7 @@ Me encanta sumarme a equipos dinámicos y contribuir en entornos colaborativos f
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel_Ferrer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuferrer/)
-[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuferrer094@gmail.com)
 
 </div>
 
