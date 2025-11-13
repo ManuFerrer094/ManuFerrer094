@@ -7,7 +7,6 @@
 **🚀 Frontend Developer Apasionado | React • Vue • Angular • Next.js**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel_Ferrer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuferrer/)
-[![GitHub followers](https://img.shields.io/github/followers/ManuFerrer094?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManuFerrer094)
 
 </div>
 
