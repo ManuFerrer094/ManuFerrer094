@@ -4,7 +4,7 @@
 
 ![Manuel Ferrer](https://media.licdn.com/dms/image/D4D16AQGjFZTeTLWN_Q/profile-displaybackgroundimage-shrink_350_1400/0/1698392706809?e=1712188800&v=beta&t=rdI7ytBszPaXNLrsmv5SJajjyDiYLrcVBuEsZZrAGqk)
 
-**🚀 Frontend Developer Apasionado | React • Vue • Angular • Next.js**
+**🚀 Senior Frontend Developer | Design Systems · Enterprise Apps · Interfaces IA**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel_Ferrer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuferrer/)
 
@@ -12,100 +12,92 @@
 
 ---
 
-## Acerca de mí
-Me especializo en tecnologías frontend modernas como **React**, **Angular**, **Vue.js** y **Next.js**, creando soluciones creativas y eficientes en el desarrollo web. Recientemente he profundizado en Vue.js para proyectos de alta interactividad y Next.js para aplicaciones con renderizado del lado del servidor y optimización SEO.
+## 🧠 Sobre mí
 
-A lo largo de mi carrera, me he sumergido en proyectos que miden la satisfacción del cliente, destacando por diseñar interfaces web atractivas, funcionales y performantes.
+Soy **Senior Frontend Developer** con más de 6 años de experiencia construyendo aplicaciones **enterprise escalables** y sistemas frontend robustos.
 
-Con un sólido dominio de lenguajes como **C#**, **TypeScript** y **JavaScript**, así como experiencia en bases de datos como **SQL Server** y **MongoDB**, estoy listo para enfrentar desafíos fullstack con un enfoque integral.
+Mi especialidad está en:
+- Arquitectura de componentes
+- Design Systems con Storybook
+- Interfaces complejas para productos de datos e IA
+- Optimización de rendimiento y accesibilidad
 
-Me encanta sumarme a equipos dinámicos y contribuir en entornos colaborativos frontend-backend.
+He trabajado en entornos internacionales para clientes como **Ferrovial, Repsol, Acciona y Telefónica**, desarrollando soluciones frontend que combinan **calidad técnica, escalabilidad y experiencia de usuario**.
 
-## 📊 KPIs & Métricas
+Me muevo con soltura en ecosistemas modernos basados en **TypeScript**, aplicando principios **SOLID** y buenas prácticas de ingeniería frontend.
 
-<div align="center">
+---
 
-<!-- Estadísticas generales -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManuFerrer094&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+## 🏢 Experiencia Profesional
 
-<!-- Racha de contribuciones -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManuFerrer094&theme=radical&hide_border=true&background=0D1117)
+### 🚀 Frontend Developer — TURING CHALLENGE  
+**2024 - 2026 · Valencia, España**
 
-<!-- Lenguajes más usados (solo oculta Java) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuFerrer094&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=java)
+- Liderazgo técnico frontend en proyectos de IA para clientes enterprise
+- Definición de arquitectura de componentes y estándares de desarrollo
+- Desarrollo de interfaces escalables con **Vue 3, React y Angular**
+- Implementación de arquitecturas modulares basadas en buenas prácticas
+- Creación y mantenimiento de **design systems con Storybook**
+- Colaboración directa con diseño en **Figma** (pixel-perfect)
+- Optimización de rendimiento y cumplimiento de estándares **WCAG**
+- Gestión simultánea de múltiples proyectos en entornos internacionales
 
-<!-- Actividad general -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManuFerrer094&theme=react-dark&hide_border=true&bg_color=0D1117)
+**Stack:** TypeScript · Vue 3 · React · Angular · Storybook · SCSS · Razor
 
-<!-- Vistas de perfil -->
-[![Profile Views](https://komarev.com/ghpvc/?username=ManuFerrer094&color=blueviolet&style=for-the-badge)](https://github.com/ManuFerrer094)
+---
 
-</div>
+### 🏢 Frontend Developer — IFS  
+**2019 - 2024 · Valencia, España**
+
+- Desarrollo frontend de producto enterprise **Design-Driven Feedback™**
+- Implementación de interfaces interactivas en **Angular**
+- Integración con backend en **C# (.NET)** y bases de datos
+- Creación de librería de componentes con Storybook
+- Colaboración con diseño para garantizar consistencia visual
+- Desarrollo de soluciones de **email marketing automatizado** (Razor + SendGrid)
+- Participación en la evolución del producto tras adquisición internacional
+
+**Stack:** Angular · TypeScript · Storybook · C# (.NET) · SQL Server · MongoDB
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-### 💻 Lenguajes de Programación
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 💻 Lenguajes
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### ⚛️ Frameworks & Librerías
+### ⚛️ Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
-### 🗄️ Bases de Datos
+### 🧩 Arquitectura & UI
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Design Systems](https://img.shields.io/badge/Design_Systems-000000?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
+
+### 🗄️ Backend & Datos
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🎨 CMS & E-commerce
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-
-### 🔧 Herramientas de Desarrollo
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
-
-## 🎓 Certificaciones y Formación
-
-<details>
-<summary><b>Ver todas las certificaciones</b></summary>
-
-### Certificaciones Recientes
-- [![Digital Marketing Especializaciones](https://img.shields.io/badge/Digital_Marketing_Especializaciones-35732652-blue?style=for-the-badge&logo=thepower&logoColor=white&labelColor=101010)]()
-
-### Desarrollo Web y JavaScript
-- [![Fundamentos del desarrollo web: Full Stack o Front-end](https://img.shields.io/badge/Fundamentos_Desarrollo_Web-Abril_2021-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
-- [![JavaScript avanzado: Buenas prácticas](https://img.shields.io/badge/JavaScript_Avanzado-Abril_2021-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
-- [![JavaScript esencial](https://img.shields.io/badge/JavaScript_Esencial-Abril_2021-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
-
-### Bases de Datos
-- [![Aprende diseño de base de datos relacionales](https://img.shields.io/badge/Dise%C3%B1o_Base_de_Datos_Relacionales-Abril_2021-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
-
-### Fundamentos de Programación
-- [![Fundamentos de la programación: Diseño orientado a objetos](https://img.shields.io/badge/Fundamentos_Programaci%C3%B3n-Julio_2018-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
-- [![Fundamentos de las matemáticas para programadores](https://img.shields.io/badge/Fundamentos_Matem%C3%A1ticas-Julio_2018-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
-
-### Habilidades Profesionales
-- [![Fundamentos de la gestión del tiempo](https://img.shields.io/badge/Fundamentos_Gesti%C3%B3n_Tiempo-Abril_2021-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
-
-</details>
 
 ---
 
-## 📫 Conecta Conmigo
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManuFerrer094&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuFerrer094&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Contacto
 
 <div align="center">
 
@@ -118,17 +110,8 @@ Me encanta sumarme a equipos dinámicos y contribuir en entornos colaborativos f
 
 <div align="center">
 
-## 📊 GitHub Stats
+**💡 "El frontend no es solo UI — es arquitectura, rendimiento y experiencia"**
 
-![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuFerrer094&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuFerrer094&layout=compact&theme=radical)
-
----
-
-**💡 "El código limpio no se escribe siguiendo reglas. Se escribe con el corazón"**
-
-⭐ *Si te gusta mi trabajo, ¡no olvides dar una estrella a mis repositorios!*
+⭐ *Si te gusta mi trabajo, ¡échale un vistazo a mis repos!*
 
 </div>
-
