@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Manuel Ferrer](https://media.licdn.com/dms/image/v2/D4E35AQHhK_rHr3hP7A/profile-framedphoto-shrink_200_200/B4EZzNDGWWHMAY-/0/1772966668102?e=1774371600&v=beta&t=xBxNvwMwuoDlLr-lQ-LYzMq3688r_UMABcsW_aAhKiU)
+![Manuel Ferrer](https://media.licdn.com/dms/image/v2/D4E03AQHisOMY2zzyvw/profile-displayphoto-scale_200_200/B4EZzEvoR8IQAY-/0/1772827347410?e=1775692800&v=beta&t=uqC4AGxyLq__driXhQ-RUfitz1vvd067wEyNI3JCnrU)
 
 **🚀 Senior Frontend Developer | Design Systems · Enterprise Apps · Interfaces IA**
 
