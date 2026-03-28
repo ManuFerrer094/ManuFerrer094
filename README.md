@@ -42,8 +42,6 @@ Me muevo con soltura en ecosistemas modernos basados en **TypeScript**, aplicand
 - Optimización de rendimiento y cumplimiento de estándares **WCAG**
 - Gestión simultánea de múltiples proyectos en entornos internacionales
 
-**Stack:** TypeScript · Vue 3 · React · Angular · Storybook · SCSS · Razor
-
 ---
 
 ### 🏢 Frontend Developer — IFS  
@@ -56,8 +54,6 @@ Me muevo con soltura en ecosistemas modernos basados en **TypeScript**, aplicand
 - Colaboración con diseño para garantizar consistencia visual
 - Desarrollo de soluciones de **email marketing automatizado** (Razor + SendGrid)
 - Participación en la evolución del producto tras adquisición internacional
-
-**Stack:** Angular · TypeScript · Storybook · C# (.NET) · SQL Server · MongoDB
 
 ---
 
