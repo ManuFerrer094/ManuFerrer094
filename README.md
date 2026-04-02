@@ -1,4 +1,4 @@
-# ¡Hola! Soy Manuel Ferrer 👋
+# ¡Hola! Soy Manu Ferrer 👋
 
 <div align="center">
 
